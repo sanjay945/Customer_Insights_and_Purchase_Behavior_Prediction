@@ -1,6 +1,6 @@
 
 
-This project, completed as part of the Modeling in Business Analytics academic coursework (Jan 2021 - May 2021), focuses on identifying key customer characteristics that influence purchase behavior and predicting the number of purchases made by individuals.
+This project, completed as part of the Machine Learning academic coursework (Jan 2021 - May 2021), focuses on identifying key customer characteristics that influence purchase behavior and predicting the number of purchases made by individuals.
 
 Leveraging advanced statistical methods, this project explores the following models to analyze customer purchase data:
 
